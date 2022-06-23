@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItsMeSteve88
 - 👀 I’m interested in making the most beautiful and functional apps
 - 🌱 I’m currently learning Flutter and Dart
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning and improvement 
 - 📫 How to reach me ... noobchi@yahoo.com
 
 <!---
