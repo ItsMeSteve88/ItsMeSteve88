@@ -2,7 +2,7 @@
 - 👀 I’m interested in making the most beautiful and functional apps
 - 🌱 I’m currently learning Flutter, Dart, and React
 - 💞️ I’m looking to collaborate on learning and improvement 
-- 📫 How to reach me ... noobchi@yahoo.com
+- 📫 How to reach me ... itsmesteve88@yahoo.com
 
 <!---
 ItsMeSteve88/ItsMeSteve88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
