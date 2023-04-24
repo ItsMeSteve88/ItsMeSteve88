@@ -6,7 +6,7 @@ Web developer, Collaborator and Learner
 
 I have been learning programming for 2 years, I started with JavaScript, then moved into Flutter, then back to JavaScript, mainly React.js
 
-* 🌍  I'm based in London, soon to be Bristol, England
+* 🌍  I'm based in Bristol, England
 * 🧠  I'm learning React, Redux, MongoDB, NodeJS, Tailwind CSS, SASS, HTML, always something new
 * 🤝  I'm open to collaborating on Anything and everything, if I am capable, why not? Experience is always handy
 
