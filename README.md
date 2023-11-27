@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephen Molano-James
 =====================================================================================================================================
 
-Web developer, Collaborator and Learner
+Web developer, Data Engineer
 ---------------------------------------
 
-I have been learning programming for 2 years, I started with JavaScript, then moved into Flutter, then back to JavaScript, mainly React.js
+I have been learning programming for 2 years, I started with JavaScript, then moved into Flutter, then back to JavaScript, with React.js, and now Data Engineering
 
 * 🌍  I'm based in Bristol, England
 * 🧠  I'm learning React, Redux, MongoDB, NodeJS, Tailwind CSS, SASS, HTML, always something new
